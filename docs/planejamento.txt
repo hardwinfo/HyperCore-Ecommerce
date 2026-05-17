@@ -1,0 +1,44 @@
+PROJETO: HyperCore
+
+Tema:
+Loja gamer e hardware integrada.
+
+Tecnologias:
+
+* PHP
+* Bootstrap 5
+* MySQL
+* C#
+* Windows Forms
+
+Categorias:
+
+* Processadores
+* Placa-mãe
+* Placa de vídeo
+* SSDs
+* Monitores
+* Headsets
+* Teclados
+* Mouse
+* Fontes
+
+Módulos WEB:
+
+* Catálogo
+* Busca
+* Carrinho
+* Login
+* Cadastro
+* Checkout
+* Pedidos
+* Avaliações
+
+Módulos DESKTOP:
+
+* Login
+* CRUD Produtos
+* CRUD Categorias
+* Pedidos
+* Relatórios
+* Moderação de avaliações
